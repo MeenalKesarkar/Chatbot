@@ -44,13 +44,13 @@ src/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/chatbot-app.git
+git clone https://github.com/MeenalKesarkar/Chatbot
 ```
 
 2. Navigate to project folder:
 
 ```
-cd chatbot-app
+cd chatbot
 ```
 
 3. Install dependencies:
